@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634389609 source:e:\tugas\semester 5\pemrograman game\projek uts\new folder\snake\main.cpp
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<time.h>
+
